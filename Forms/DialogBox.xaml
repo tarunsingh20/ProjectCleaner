@@ -1,0 +1,28 @@
+﻿<Window x:Class="ProjectCleaner.Forms.DialogBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
+        Style="{DynamicResource SkinDialogStyle}"
+        Title="Project Cleaner" MinHeight="100" MinWidth="300"         
+        Background="#FF343434" Foreground="White" Height="170" Width="400"
+        WindowStartupLocation="CenterOwner" 
+        ShowActivated="True" ShowInTaskbar="False" 
+        Topmost="True" SizeToContent="WidthAndHeight" ResizeMode="NoResize" 
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label Content="Message !" x:Name="lblMessage" Margin="10" FontSize="14" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"/>
+        </Grid>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Button  Width="40" Height="35"  IsDefault="True" Name="btnOK" Click="btnOK_Click" >
+                <Image Source="/Images/OK.png" Height="40" Width="40" Margin="-10" />
+            </Button>
+            <Button  Width="40" Height="35" IsCancel="True" Name="btnCancel" Click="btnCancel_Click" Margin="40,0,0,0" >
+                <Image Source="/Images/Cancel.png" Height="40" Width="40" Margin="-10" />
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

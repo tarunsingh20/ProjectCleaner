@@ -1,0 +1,66 @@
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.exe.config
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csprojResolveAssemblyReference.cache
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\About.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogBox.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogWindow.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\Button.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\ComboBox.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\DataGrid.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\Dictionary1.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\ScrollBar.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\Shared.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\WindowStyle.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\WindowStyleWin7.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\App.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\About.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogBox.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogWindow.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\MainWindow.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\WindowStyle.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\App.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner_MarkupCompile.cache
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner_MarkupCompile.lref
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\ProgressDialog.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\ProgressDialog.g.cs
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.exe
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.pdb
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\MainWindow.baml
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.g.resources
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.Properties.Resources.resources
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csproj.GenerateResource.Cache
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.exe
+C:\Users\r.palugulla\Documents\Visual Studio 2012\Projects\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.pdb
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.exe
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.pdb
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\About.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogBox.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogWindow.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\ProgressDialog.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\Button.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\ComboBox.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\DataGrid.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\Dictionary1.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\ScrollBar.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\Shared.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\WindowStyle.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\WindowStyleWin7.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\App.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\About.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogBox.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\DialogWindow.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\MainWindow.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\ProgressDialog.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Styles\WindowStyle.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\App.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner_MarkupCompile.cache
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner_MarkupCompile.lref
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\Forms\MainWindow.baml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.g.resources
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.Properties.Resources.resources
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csproj.GenerateResource.Cache
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.exe
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.pdb
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\bin\Debug\AppData.xml
+C:\Tarun_Backup\GitHub\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csprojResolveAssemblyReference.cache

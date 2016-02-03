@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<ProjectCleaner>
+  <Folders>
+    <Folder name="bin" checked="true" />
+    <Folder name="obj" checked="true" />
+    <Folder name="TestResults" checked="true" />
+    <Folder name="_UpgradeReport_Files" checked="true" />
+  </Folders>
+  <FileExtensions>
+    <File extension=".suo" checked="true" />
+    <File extension=".webinfo" checked="true" />
+    <File extension=".user" checked="true" />
+    <File extension=".xap" checked="true" />
+    <File extension=".pdb" checked="true" />
+    <File extension=".zip" checked="true" />
+    <File extension=".rar" checked="true" />
+    <File extension=".cache" checked="true" />
+  </FileExtensions>
+</ProjectCleaner>

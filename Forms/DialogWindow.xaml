@@ -1,0 +1,62 @@
+﻿<Window x:Class="ProjectCleaner.Forms.DialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
+        Title="DialogWindow" WindowStyle='None'
+        WindowStartupLocation="CenterOwner"
+        AllowsTransparency='True'
+        Background='Transparent' 
+        ResizeMode="CanResize"
+        Height='200' 
+        MinHeight="150" 
+        Width="470" 
+        MinWidth='450' Loaded="Window_Loaded" ShowInTaskbar="False" >
+    <Grid>
+        <Border Background='#ABABAB'
+                BorderBrush='DimGray'
+                BorderThickness='1'               
+                CornerRadius='10'>
+            <HeaderedContentControl>
+                <HeaderedContentControl.Header>
+                    <Grid MouseDown='OnDragMoveWindow'>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width='*' />
+                            <ColumnDefinition Width='Auto' />
+                        </Grid.ColumnDefinitions>
+                        <Border BorderThickness="1" Grid.Row="0" Grid.ColumnSpan="2"
+                            CornerRadius="10,10,0,0" BorderBrush="#ABABAB" Background="DimGray">
+                        </Border>
+
+                        <TextBlock Grid.Column='0'
+                                   HorizontalAlignment="Center"
+                                   Margin='122,5,172,1' Height="25" FontSize="14"
+                                   Foreground="White"
+                                   VerticalAlignment='Center'
+                                   x:Name="txtCaption"
+                                   Text='Project Cleaner' />
+                    </Grid>
+                </HeaderedContentControl.Header>
+                <HeaderedContentControl.Content>
+                    <Grid Margin='3'>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" ></RowDefinition>
+                            <RowDefinition Height="17"></RowDefinition>
+                            <RowDefinition Height="30"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width='*' />
+                        </Grid.ColumnDefinitions>
+                        <Label Margin="10,0,10,0" x:Name="txtMessage" Content='Message !' FontSize="14" Height="100" VerticalAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" />
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="2*" />
+                            </Grid.ColumnDefinitions>
+                            <CheckBox Margin="19,5,286,7" Grid.Column="0"  x:Name="chkShowErrors" Content="Open log file" IsChecked="True" VerticalAlignment="Center" FontSize="14" Grid.ColumnSpan="2"></CheckBox>
+                            <Button Grid.Column="1" Click="WindowCloseButton_Click" HorizontalAlignment="Left" Margin="30,0,0,0" x:Name="btnYes" Width="100" Height="25" Content="OK"></Button>
+                        </Grid>
+                    </Grid>
+                </HeaderedContentControl.Content>
+            </HeaderedContentControl>
+        </Border>
+    </Grid>
+</Window>
