@@ -7,6 +7,8 @@ Many times developers have to share a Visual Studio Project or upload it to a po
 4. Source Control Bindings
 5. User specific files such as .webinfo, .suo, .user etc
 
+![alt tag](https://cloud.githubusercontent.com/assets/16422549/14552134/ee2efc58-02f8-11e6-86d9-b7b645ec3869.png)
+
 The Project Cleaner tool provides a configurable mechanism to cleanup a project solution and zip it on demand for sharing it across. While the tool is directed at Visual Studio Projects, it can be easily altered and configured to work with any project type - even non Microsoft technologies.
 
 Refer to User Guide available in the release section for more information on how to install and use the tool
